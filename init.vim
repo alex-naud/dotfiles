@@ -1,0 +1,1 @@
+/home/naudata/.config/nvim/init.vim
